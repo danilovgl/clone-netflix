@@ -8,9 +8,9 @@
 <img src="clone-1.png" widht="150px" alt="print-project">
 <img src="clone-2.png" widht="150px" alt="print-project">
 
->Resultado do Register User.
+>Resultado do Clone Netflix.
 
->clique aqui => 
+>clique aqui => https://elaborate-mochi-5eac99.netlify.app
 
 O projeto Foi desenvolvido usando as seguintes tecnologias:
 
